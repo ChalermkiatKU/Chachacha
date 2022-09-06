@@ -1,0 +1,57 @@
+.App {
+  background-color: white;
+}
+
+.font-face-gm {
+  font-family: "Graphink";
+ }
+ 
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  border-color: black;
+  border-width: 10px;
+}
+
+.form1 {
+  width: 500px;
+  height: 549px;
+  box-shadow: rgba(100, 98, 98, 0.1) 0px 0px 20px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: white;
+  border: 1px solid #E4E3E3;
+}
+.form2 {
+  width: 500px;
+  height: 638px;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: white;
+  border: 1px solid #b1b4b6;
+}
+
+.form-content {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.title {
+  text-align:left;
+  margin-left: 30px;
+  margin-bottom: 26px;
+  font-size: 20px;
+  color: rgb(34, 34, 34);
+  font-weight:500;
+}
+
+label {
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(34, 34, 34);
+}
